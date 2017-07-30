@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Estrategias de Diversidad e Inclusión / Lineamientos de Participación en Comunidad",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": false,
+    "revealTheme": "simple"
+  }
+}
